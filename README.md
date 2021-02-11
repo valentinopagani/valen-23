@@ -2,17 +2,18 @@
 
 Soy valen, desarrollador front-end (futuro fullstak);
 
-Trabajo con {
-- Html;
-- Css;
-- Sass;
-- JavaScript;
-- JQuery;
-- php;
-- MySQL;
+function TrabajoCon() {
+- Html,
+- Css,
+- Sass,
+- JavaScript,
+- JQuery,
+- php,
+- MySQL,
 - Algo de Angular
-}
 
-Aprendiendo todo el día nuevas cosas;
+};
 
-Sí me queres conocer más, mirá mis proyectos.
+console.log('Aprendiendo todo el día nuevas cosas');
+
+alert(' Sí me queres conocer más, mirá mis proyectos. ');
