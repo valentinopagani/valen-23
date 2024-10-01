@@ -14,6 +14,6 @@ function TrabajoCon() {
 
 };
 
-console.log('Aprendiendo todo el día nuevas cosas');
+console.log('Aprendiendo nuevas cosas');
 
-alert(' Sí me queres conocer más, mirá mis proyectos. ');
+alert('Seguime en instagram.com/valenpagani_');
